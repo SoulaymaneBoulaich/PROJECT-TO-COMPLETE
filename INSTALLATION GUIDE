@@ -1,17 +1,3 @@
-You are right. The original guide was a good start, but it was inefficient. You had to run scripts one-by-one, and it created many messy CSV files (`reddit_data.csv`, `reddit_data_clean.csv`, etc.).
-
-This new guide builds a **professional, efficient pipeline**.
-
-  * We will **remove** the inefficient, single-run scripts (`process_data.py`, `sentiment_analysis.py`, `visualize.py` from the original guide).
-  * We will **replace** them with a powerful `pipeline.py` that does everything in memory (no messy CSVs).
-  * The `dashboard.py` will read data **directly from the database**, not from a CSV.
-
-This is the complete `README.md` file for the **new, efficient, multi-platform project**. It includes all the files and steps you need.
-
-Here is the **Ubuntu** version first, followed by the **Windows** version.
-
------
-
 # 🚀 Social Media Analytics Pipeline (Ubuntu Guide)
 
 ### A Project by Soulaymane Boulaich (1st Year Big Data & AI Engineering)
@@ -363,11 +349,3 @@ python dashboard.py
 ```
 
   * Open your browser and go to **`http://127.0.0.1:8050`** to see your dashboard.
-
------
-
-## 🚧 API Limitations (Facebook/Instagram)
-
-  * Access to the Facebook and Instagram APIs is highly restricted by Meta.
-  * It requires a formal Business Verification and an App Review process.
-  * This is not feasible for personal or academic projects, as approval is almost exclusively granted to registered businesses for commercial purposes.
