@@ -1,7 +1,4 @@
 # PROJECT-TO-COMPLETE
-Here is the complete, all-in-one project guide formatted as a Notion-style file.
-
-It includes the **Reddit collector script** from your original file, as you requested, and integrates it into the full 7-day plan with all other platforms.
 
 -----
 
