@@ -1,7 +1,5 @@
 # PROJECT-TO-COMPLETE
 
------
-
 # 🚀 My Social Media Analytics Pipeline
 
 **Objective:** A 7-day sprint to build a multi-platform (Reddit, Twitter, YouTube) analytics pipeline. This document contains all steps and all code from start to finish.
