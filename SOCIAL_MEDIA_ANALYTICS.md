@@ -1,5 +1,4 @@
 # 🚀 Social Media Analytics Pipeline - Complete Beginner's Guide
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
